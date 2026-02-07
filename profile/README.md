@@ -4,7 +4,7 @@ A suite of crates designed to simplify the usage of `rust-gpu` with `bevy`.
 
 See [`bevy-rust-gpu`](https://github.com/Bevy-Rust-GPU/bevy-rust-gpu) for top-level project documentation.
 
-Other repositories of note:
+## Other repositories of note
 
 [`t-funk`](https://github.com/Bevy-Rust-GPU/t-funk)
 
