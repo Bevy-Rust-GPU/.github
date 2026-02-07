@@ -18,9 +18,7 @@ Cons: Verbose. Terrible compile times.
 ### Elysian Series
 
 [`V1`](https://github.com/Bevy-Rust-GPU/elysian-legacy)
-
 [`V2`](https://github.com/Bevy-Rust-GPU/elysian-legacy-2)
-
 [`V3`](https://github.com/Bevy-Rust-GPU/elysian-legacy-3)
 
 Iterative attempts at refining a practical, cross-domain implicit surface compiler. A full mission statement is available in the [`V1`](https://github.com/Bevy-Rust-GPU/elysian-legacy) README.
