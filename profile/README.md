@@ -7,6 +7,7 @@ See [`bevy-rust-gpu`](https://github.com/Bevy-Rust-GPU/bevy-rust-gpu) for top-le
 Other repositories of note:
 
 [`t-funk`](https://github.com/Bevy-Rust-GPU/t-funk)
+
 Type-level programming toolkit. Abuses Rust's type system to encode composable compile-time computation.
 Implements data structures, type classes, and a significant chunk of the Haskell standard library - all at the type level.
 
