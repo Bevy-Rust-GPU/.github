@@ -12,7 +12,7 @@ Type-level programming toolkit. Abuses Rust's trait system to encode static, com
 
 Implements data structures, type classes, and a significant chunk of the Haskell standard library - all statically.
 
-Pros: Rich expression of static type-level computing.
+Pros: Rich expression of static type-level computing. Interesting compsci party trick.
 
 Cons: Verbose. Terrible compile times.
 
