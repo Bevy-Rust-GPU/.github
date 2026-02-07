@@ -9,6 +9,7 @@ See [`bevy-rust-gpu`](https://github.com/Bevy-Rust-GPU/bevy-rust-gpu) for top-le
 ### [`t-funk`](https://github.com/Bevy-Rust-GPU/t-funk)
 
 Type-level programming toolkit. Abuses Rust's trait system to encode static, composable type-level computation.
+
 Implements data structures, type classes, and a significant chunk of the Haskell standard library - all statically.
 
 Pros: Rich expression of static type-level computing.
